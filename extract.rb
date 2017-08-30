@@ -32,7 +32,8 @@ class WordpressExporter
       # Ignore
     else
       file_name = "./wordpress/#{type}/#{title.parameterize}.html"
-      write_item(file_name, post)
+      paragraphed = post.lines.map { |x| "<p>#{x}</p>"}.join("")
+      write_item(file_name, paragraphed)
     end
   end
 
