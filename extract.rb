@@ -15,6 +15,7 @@ class WordpressExporter
     title = item.css("title").text
     date = item.xpath("wp:post_date_gmt").text
     content = item.xpath("content:encoded").text
+    paragraphed = content.lines.map { |x| "<p>#{x}</p>"}.join("")
 
     post =
 """
@@ -23,7 +24,7 @@ class WordpressExporter
   date: #{date}
   draft: false
 ---
-#{content}
+#{paragraphed}
 """
 
     type = item.xpath("wp:post_type").text
@@ -32,8 +33,7 @@ class WordpressExporter
       # Ignore
     else
       file_name = "./wordpress/#{type}/#{title.parameterize}.html"
-      paragraphed = post.lines.map { |x| "<p>#{x}</p>"}.join("")
-      write_item(file_name, paragraphed)
+      write_item(file_name, post)
     end
   end
 
