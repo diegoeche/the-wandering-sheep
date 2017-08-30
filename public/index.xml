@@ -1,14 +1,191 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>The Wandering Electric Sheep</title>
+    <link>http://diegoeche.narcosoft.com/</link>
+    <description>Recent content on The Wandering Electric Sheep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2017 21:43:21 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://diegoeche.narcosoft.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Si John Oliver fuera Super-Héroe</title>
+      <link>http://diegoeche.narcosoft.com/post/si-john-oliver-fuera-super-heroe/</link>
+      <pubDate>Tue, 23 May 2017 21:43:21 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/si-john-oliver-fuera-super-heroe/</guid>
+      <description>El POTUS se parece a uno de los super-villanos. Sonrisas y corrupción. De pronto el simple arquetipo del político moderno. El héroe es un pervertido periodista obsesionado con &#34;la verdad&#34;. Se trata de Transmetropolitan. Escrita por Warren Ellis, uno de tantos traumados por 1984, y co-creada por Darick Robertson. Ya en algún momento hable de los prejuicios y como me bloqueaban de disfrutar del género del comic. Pero lo que ahora considero tonto elitismo, se veía venir.</description>
+    </item>
+    
+    <item>
+      <title>Aprendiendo a Matar</title>
+      <link>http://diegoeche.narcosoft.com/post/aprendiendo-a-matar/</link>
+      <pubDate>Fri, 28 Apr 2017 20:30:22 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/aprendiendo-a-matar/</guid>
+      <description>La fascinación mórbida que tengo por la violencia. A veces de autor en autor me pierdo en cómo y por qué termino leyendo lo que termino leyendo. On Killing: The Psychological Cost of Learning to Kill in War and Society creo que fue una referencia de Worse than War. Material suicida para un invierno depresivo. La Repulsión De pequeño recuerdo jugar Prince of Persia. Un juego del que probablemente nunca pasé del tercer nivel.</description>
+    </item>
+    
+    <item>
+      <title>Esos Que Dañan Libros</title>
+      <link>http://diegoeche.narcosoft.com/post/esos-que-danan-libros/</link>
+      <pubDate>Wed, 03 Feb 2016 00:04:50 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/esos-que-danan-libros/</guid>
+      <description>Cervezas un viernes después del trabajo y una amiga alemana menciona Houellebecq. Yo con esas putas ganas de leerme Atomised*... y ese mismo alguien me lo empieza a arruinar. Houellebecq lo escuché por primera vez en el Facebook Group de JG. Ballard. Atomised lo leí hace ya tiempo... pero entiendo porque lo encontré recomendado en ese lugar en particular. A Houellebecq, como a Ballard, le encanta revolver el estomago del lector con su interpretación cínica de la vida moderna.</description>
+    </item>
+    
+    <item>
+      <title>Al Cero!</title>
+      <link>http://diegoeche.narcosoft.com/post/al-cero/</link>
+      <pubDate>Tue, 19 Jan 2016 16:22:05 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/al-cero/</guid>
+      <description>Recuerdo una amiga siempre hablándome de la generala apostándole siempre al cero en &#34;El Jugador&#34; de Fedor Dostoyevski. Y la verdad, no recuerdo la razón por la cual solo lo vine a leer ahora. Recuerdo uno de los experimentos clásicos de Skinner. Al reforzar positivamente y aleatoriamente a unas palomas, estas crean relaciones falsas de causa-efecto. Por ejemplo, si la paloma daba una vuelta completa y obtenía por casualidad la recompensa, esta rápidamente asociaba causa (la vuelta) a un efecto inexistente (recompensa).</description>
+    </item>
+    
+    <item>
+      <title>Ubik y sus Morfismos.</title>
+      <link>http://diegoeche.narcosoft.com/post/ubik-y-sus-morfismos/</link>
+      <pubDate>Tue, 22 Apr 2014 20:31:49 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/ubik-y-sus-morfismos/</guid>
+      <description>Ya hace mas de 4 años mi mejor amiga me regaló Ubik de Philip K. Dick, y como cada vez me queda menos material de él, he decidido no leerlo tan obsesivamente como desearía. Pero... ¿Cómo abstenerme de empezar un día de trabajo leyendo un libro con una dedicatoria?! ... Una cafetera automática se abstiene de rebajar un café. Una puerta no deja salir a un personaje de de su casa a menos que este le introduzca una moneda de 25 centavos.</description>
+    </item>
+    
+    <item>
+      <title>De perros parlantes y tabús.</title>
+      <link>http://diegoeche.narcosoft.com/post/de-perros-parlantes-y-tabus/</link>
+      <pubDate>Mon, 03 Mar 2014 19:55:28 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/de-perros-parlantes-y-tabus/</guid>
+      <description>La verdad, tengo que confesar que no sé si esta historia ya la conté. Una vez, mi amiga y yo nos encontramos en pleno centro de Medellín, una anticuaria con un montón de saldos de ciencia ficción. Ballard, Dick, Bradbury, Aldiss... Algo milagroso realmente en Colombia. Gran parte de mi colección es de allá. Competía con mi amiga por los libros de los que había sólo un ejemplar. Y ella, de buena amiga, casi siempre me dejaba comprarlos.</description>
+    </item>
+    
+    <item>
+      <title>Love meets Dostoyevski</title>
+      <link>http://diegoeche.narcosoft.com/post/love-meets-dostoyevski/</link>
+      <pubDate>Thu, 07 Nov 2013 21:37:07 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/love-meets-dostoyevski/</guid>
+      <description>This special edition of this blog entry will lack the clarity or loquaciousness of the Spanish entries. I enrolled in this little course about Story Telling and well... the current homework was about writing about your favorite story. Coincidentally that&#39;s what this blog is all about. I promise that the following non-homework related entries would go back to Spanish (Or should I say Spanglish?)
+So it&#39;s really hard to choose the story you like the most.</description>
+    </item>
+    
+    <item>
+      <title>Filósofos autobiográficos, motocicletas y hermanos con buenas intenciones.</title>
+      <link>http://diegoeche.narcosoft.com/post/filosofos-autobiograficos-motocicletas-y-hermanos-con-buenas-intenciones/</link>
+      <pubDate>Sat, 12 Oct 2013 12:02:55 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/filosofos-autobiograficos-motocicletas-y-hermanos-con-buenas-intenciones/</guid>
+      <description>Filosofos autobiográficos, motocicletas y hermanos con buenas intenciones.
+Tener que leer Kant a los 11 años de cuenta del hermano filósofo, es de esas cosas que lo marcan a uno. Bueno, siendo justos, tendría que hablar de Saki, Poe, Márquez y Borges. Pero hoy... quedemonos con esa vez que me hizo leer &#34;La crítica de la razón pura&#34; y no entendí nada.
+Expuesto prematuramente por cuenta de mi hermano, fuí tal vez el estudiante menos favorito de todos mis profesores de filosofía.</description>
+    </item>
+    
+    <item>
+      <title>Facts of Life</title>
+      <link>http://diegoeche.narcosoft.com/post/facts-of-life/</link>
+      <pubDate>Mon, 12 Aug 2013 01:58:02 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/facts-of-life/</guid>
+      <description>Dejando de lado la ausencia de publicaciones, y la preferencia por la ficción, voy a hablar del último libro que leí. Por recomendación de un amigo Alemán (uno de los poquitos amigos alemanes que tengo) me empecé a leer &#34;Computer Power and Human Reason&#34; El autor del libro es el famoso Joseph Weizenbaum, el creador de ELIZA. ELIZA es un programa que simula un psicoterapeuta. Mediante simples manipulaciones sintácticas, el programa es capaz de simular el tipo de conversación empática de un psicoanalista.</description>
+    </item>
+    
+    <item>
+      <title>Prejuicios Literarios.</title>
+      <link>http://diegoeche.narcosoft.com/post/prejuicios-literarios/</link>
+      <pubDate>Sun, 14 Apr 2013 12:57:31 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/prejuicios-literarios/</guid>
+      <description>Hipocresía es ponerse furioso al escuchar la gente tildar a la ciencia ficción como género sub-literario, y al mismo tiempo, decir lo mismo de otro género. Esta es la historia de como mis prejuicios casi me privan de un muy buen libro.
+Una fiesta de estudiantes en Moabit muere prematuramente debido a la amenaza de multa de la Polizei. Minutos antes, una estudiante de literatura me cuenta sobre su reciente obsesión con &#34;</description>
+    </item>
+    
+    <item>
+      <title>Jack, Crimson and Me</title>
+      <link>http://diegoeche.narcosoft.com/post/jack-crimson-and-me/</link>
+      <pubDate>Thu, 21 Mar 2013 22:58:46 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/jack-crimson-and-me/</guid>
+      <description>Obsesivo por la musica se queda algo corto. La verdad, es que trabajo todo el dia tirando código pensando en cual es el próximo album que me quiero comprar. Y una de mis bandas favoritas es King Crimson. Una banda casi que optimizada para el nerd corriente. Complicadas estructuras, maestría interpretativa y sobretodo, muy buenas letras. Un periodo particular de King Crimson con el cual es difícil no obsesionarse son los 80&#39;s.</description>
+    </item>
+    
+    <item>
+      <title>Evolución de la Violencia.</title>
+      <link>http://diegoeche.narcosoft.com/post/evolucion-de-la-violencia/</link>
+      <pubDate>Sun, 27 Jan 2013 12:29:10 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/evolucion-de-la-violencia/</guid>
+      <description>Estaba yo con mi hermana vendiendo los libros del colegio en una anticuaria, cuando veo exhibido el primer ejemplar de la Trilogía de Trantor de Isaac Asimov. Lector no era. De hecho, creo que solo habría leído 2-3 libros en toda mi vida que no hubieran sido obligados en el colegio. Y bueno, lo compré como por 2000 pesos... y ahora no me da pena admitir que soy un Sci-Fi junkie.</description>
+    </item>
+    
+    <item>
+      <title>Alone in Berlin</title>
+      <link>http://diegoeche.narcosoft.com/post/alone-in-berlin/</link>
+      <pubDate>Mon, 24 Dec 2012 15:57:14 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/alone-in-berlin/</guid>
+      <description>Alternativamente: Mi primer libro en Berlín. Apenas llegué, una amiga, que conocí en Budapest, me recomendó &#34;Alone in Berlín&#34; de Fallada. La idea de leer un libro, dónde la historia transcurre en una ciudad que uno está viviendo, me pareció demasiado atractiva para dejarla pasar. El libro cuenta la historia de una pareja que inicia una célula de resistencia durante la Alemania nazi. Su &#34;modus operandi&#34;? Distribución de postales en sitios públicos con propaganda escrita a puño y letra.</description>
+    </item>
+    
+    <item>
+      <title>Stranger in a Strange Land... Twice</title>
+      <link>http://diegoeche.narcosoft.com/post/stranger-in-a-strange-land-twice/</link>
+      <pubDate>Sat, 27 Oct 2012 20:04:45 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/stranger-in-a-strange-land-twice/</guid>
+      <description>La primera vez que salí de Colombia, fué en 2008. Por curiosidades de la vida, encontré un anuncio que decía algo como: &#34;Eres un programador funcional? Tenemos un trabajo para ti!&#34; No podía ser mas oportuno! En el momento no hacía sinó mandar hojas de vida a todo tipo de empresas con tal de no hacer mi práctica en Colombia. La idea de trabajar en Colombia me sonaba aburrida... y la verdad.</description>
+    </item>
+    
+    <item>
+      <title>Precuela de un Blog</title>
+      <link>http://diegoeche.narcosoft.com/post/precuela-de-un-blog/</link>
+      <pubDate>Sat, 27 Oct 2012 02:19:59 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/precuela-de-un-blog/</guid>
+      <description>Uno de los momentos mas difíciles en mi vida fue preparar las maletas para venirme a vivir a Berlín. El montón de objetos innecesarios, pero que llenan de recuerdos, es simplemente abrumadora. Además de deshacerse uno de mil cosas, tambíen toca elegir... y elegir que libros llevarse es horrible. Increiblemente, me resistí a traerme todos los libros que ya había leído. No hubo dedicatoria, anotación, cubierta o historia que venciera la idea, de que lo mejor de un libro, es leerlo por primera vez.</description>
+    </item>
+    
+    <item>
+      <title>Historia de un libro...</title>
+      <link>http://diegoeche.narcosoft.com/post/historia-de-un-libro/</link>
+      <pubDate>Sat, 29 Sep 2012 14:15:18 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/historia-de-un-libro/</guid>
+      <description>&#34;El hombre en el Castillo&#34; de Philip K. Dick es ésa novela que siempre quise leer, pero simplemente me era imposible encontrar. Y cuando digo &#34;difícil de encontrar&#34; no lo digo en el sentido moderno de &#34;no-online-delivery&#34;... Puedo decir que preguntar por el hombre en el castillo se convirtió en el acto obligatorio para cualquier librería, anticuaria e incluso vendedor ambulante de libros viejos de Medellí­n. Me iba al centro de la ciudad en el calor mas inmundo con mi mejor amiga, para terminar siempre preguntando &#34;</description>
+    </item>
+    
+    <item>
+      <title>Y entonces?</title>
+      <link>http://diegoeche.narcosoft.com/page/y-entonces/</link>
+      <pubDate>Sat, 29 Sep 2012 13:51:08 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/page/y-entonces/</guid>
+      <description>Leyendo &#34;Miracles of Life&#34; de Ballard, me di cuenta que su vida era casi tan interesante como la de sus personajes...
+Y esa es como la frase cliché que uno no quiere escuchar. Pero es cierto!
+
+POW en Shanghai. Med-School dropout. Piloto de la RAF. Vendedor de enciclopedias. Copywriter en una agencia de publicidad. Padre viudo de 3. Y obviamente... Escritor.
+
+Y bueno... contra la crisis nihilista-existencial motivada por lo que se podría denominar &#34;</description>
+    </item>
+    
+    <item>
+      <title>Y entonces?</title>
+      <link>http://diegoeche.narcosoft.com/post/y-entonces/</link>
+      <pubDate>Sat, 29 Sep 2012 13:51:08 +0000</pubDate>
+      
+      <guid>http://diegoeche.narcosoft.com/post/y-entonces/</guid>
+      <description>Leyendo &#34;Miracles of Life&#34; de Ballard, me di cuenta que su vida era casi tan interesante como la de sus personajes...
+Y esa es como la frase cliché que uno no quiere escuchar. Pero es cierto!
+
+POW en Shanghai. Med-School dropout. Piloto de la RAF. Vendedor de enciclopedias. Copywriter en una agencia de publicidad. Padre viudo de 3. Y obviamente... Escritor.
+
+Y bueno... contra la crisis nihilista-existencial motivada por lo que se podría denominar &#34;</description>
+    </item>
     
   </channel>
 </rss>

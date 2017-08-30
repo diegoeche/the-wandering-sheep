@@ -1,3 +1,4 @@
 languageCode = "en-us"
 title = "The Wandering Electric Sheep"
 theme = "paperback"
+baseURL= "http://diegoeche.narcosoft.com/"
