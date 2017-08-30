@@ -1,4 +1,10 @@
 languageCode = "en-us"
 title = "The Wandering Electric Sheep"
-theme = "paperback"
+theme = "wandering"
 baseURL= "http://diegoeche.narcosoft.com/"
+
+[params]
+AuthorName = "Diego Echeverri"
+Tagline = "I like talking about the books I read"
+TwitterUsername = "diegoeche"
+HomepagePosts = 10
